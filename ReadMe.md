@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚛️ Focused on front-end developement with React framework<br>🤖 Development of IA using genethic algorithms and neural networks<br>👾 Creation of 2d games with p5.js<br>
+⚛️ Focused on front-end developement with React framework<br>🤖 Development of AI using genethic algorithms and neural networks<br>👾 Creation of 2d games with p5.js<br>
 
 
 ## 🌐 Socials:
